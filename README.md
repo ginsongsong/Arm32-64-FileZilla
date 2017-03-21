@@ -1,5 +1,8 @@
 Add preload script for filezilla source code
 
+Tested architectures:
+- arm / arm64
+
 $git clone  https://github.com/ginsongsong/Arm-FileZilla-excutable-version-on-ubuntu-14.04.git
 
 $cd Arm-FileZilla-excutable-version-on-ubuntu-14.04/
@@ -65,10 +68,9 @@ FileZilla has been tested on the following platforms:
 - FreeBSD and other BSD variants
 - Mac OS X
 
-Tested architectures:
+
 - x86
 - x86-64 / amd64
-- arm / arm64
 - powerpc
 
 FileZilla may be able to run on additional systems and architectures.
