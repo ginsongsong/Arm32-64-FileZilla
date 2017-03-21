@@ -1,10 +1,17 @@
 Add preload script for filezilla source code
+
 $git clone  https://github.com/ginsongsong/Arm-FileZilla-excutable-version-on-ubuntu-14.04.git
+
 $cd Arm-FileZilla-excutable-version-on-ubuntu-14.04/
+
 $sh preload.sh
+
 $./configure
+
 $make -j4  
+
 $make install 
+
 $filezilla
 
 
