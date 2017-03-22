@@ -7,7 +7,7 @@ $git clone  https://github.com/ginsongsong/Arm-FileZilla-excutable-version-on-ub
 
 $cd Arm-FileZilla-excutable-version-on-ubuntu-14.04/
 
-$sh preload.sh
+$sudo sh preload.sh
 
 $./configure
 
