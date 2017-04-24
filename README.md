@@ -8,6 +8,7 @@ $git clone  https://github.com/ginsongsong/Arm-FileZilla-excutable-version-on-ub
 $cd Arm-FileZilla-excutable-version-on-ubuntu-14.04/
 
 $sudo sh preload.sh
+$./autogen.sh
 
 $./configure
 
